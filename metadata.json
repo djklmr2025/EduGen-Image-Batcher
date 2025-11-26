@@ -1,0 +1,5 @@
+{
+  "name": "EduGen Image Batcher",
+  "description": "A web-based tool to batch generate 260 educational images for Environmental Pollution and Hygiene categories using Gemini 2.5 Flash Image model, with automatic resizing and ZIP organization.",
+  "requestFramePermissions": []
+}
